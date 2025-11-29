@@ -1,0 +1,8 @@
+11141o
+
+['121212', '124523', 'oooooo', 'oooooo', 'oooooo', 'oooooo', 'oooooo', 'oooooo', 'oooooo', 'oooooo']
+False
+2
+foofoo
+ - Time: 2024-11-12T01:49:13
+['30', '11', '00', '00', '00', '00', '00', '00', '00', '00']
